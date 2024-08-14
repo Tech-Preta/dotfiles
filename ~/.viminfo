@@ -1,0 +1,42 @@
+# Este arquivo viminfo foi gerado pelo Vim 9.0.
+# Você pode editá-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Histórico de linha de comando (mais recente primeiro):
+:wq!
+|2,0,1722473431,,"wq!"
+
+# Histórico de expressões de busca (mais recente primeiro):
+
+# Histórico de expressões (mais recente primeiro):
+
+# Histórico de linha de entrada (mais recente primeiro):
+
+# Histórico de linha de debug (mais recente primeiro):
+
+# Registradores:
+
+# Marcas nos arquivos:
+'0  1  0  ~/Downloads/granato_iac-magalu-kubernetes/.git/MERGE_MSG
+|4,48,1,0,1722473431,"~/Downloads/granato_iac-magalu-kubernetes/.git/MERGE_MSG"
+
+# Lista de saltos (mais recente primeiro):
+-'  1  0  ~/Downloads/granato_iac-magalu-kubernetes/.git/MERGE_MSG
+|4,39,1,0,1722473431,"~/Downloads/granato_iac-magalu-kubernetes/.git/MERGE_MSG"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/Downloads/granato_iac-magalu-kubernetes/.git/MERGE_MSG
+	*	1722473429	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
